@@ -1,0 +1,21 @@
+{
+    "redirect": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=com.erzuter.islak_kek_tarifleri",
+        "pengaturan_iklan":"1",
+        "iklan_splash":"1",
+        "startappid":"210003744",
+        "pub_id": "pub-1440789757767520",
+        "admob_app_id": "ca-app-pub-1440789757767520~3874232766",
+        "admob_inter": "ca-app-pub-1440789757767520/6117252722",
+        "admob_reward": "ca-app-pub-1440789757767520/8551844374",
+        "admob_native": "ca-app-pub-1440789757767520/4612599360",
+        "fan_inter": "",
+        "fan_native_banner": "",
+        "deskripsi_update": "Download now",
+        "interval": 2,
+        "version_app":2
+        }
+    ]
+}
