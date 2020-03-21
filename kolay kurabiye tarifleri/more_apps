@@ -1,0 +1,74 @@
+{	"data":
+	[
+  {
+    "id":1,
+    "judul":"Islak kek tarifleri",
+    "image":"https://lh3.googleusercontent.com/kFPz8x6lfsh67Jj0z2Fm5y1Z32hp33D_8XMjj1jUcO9rcsuhN2LfhnAYuWiGZUFIEg=s180",
+    "link":"https://play.google.com/store/apps/details?id=com.erzuter.islak_kek_tarifleri"
+  },
+  {
+    "id":2,
+    "judul":"Pilav Tarifleri",
+    "image":"https://lh3.googleusercontent.com/Cws6Kj9HQbvB5SQtYlfrohoN8v3vTeQj6yZkbm43aYJt_9qIDYOuvLYgblb-L5wRyu0=s180",
+    "link":"https://play.google.com/store/apps/details?id=com.erzuter.pilav_tarifleri1"
+  },
+  {
+    "id":3,
+    "judul":"Dolma Tarifleri",
+    "image":"https://lh3.googleusercontent.com/o6JWk3kpLkqcjfNenBeHt10Jck6doL-dbf6c_XZ2e19ZcvpKd4Sv0ZzI33Iv5-78LLA=s180",
+    "link":"https://play.google.com/store/apps/details?id=com.erzuter.dolma_tarifleri"
+  },
+
+  {
+    "id":4,
+    "judul":"Kolay poğaça tarifleri",
+    "image":"https://lh3.googleusercontent.com/WfafeYPXsvNSW1eiTkQQG7JYhFlivggZzR_2RWMHL7XzcRbPYmD89BpgpNrYzxyFfZI=s180",
+    "link":"https://play.google.com/store/apps/details?id=com.erzuter.kolay_pogaca_tarifleri"
+  },
+  {
+    "id":5,
+    "judul":"salata tarifleri diyet",
+    "image":"https://lh3.googleusercontent.com/4k_cqdSEKRn2nnjz81oXvXFK6M1Ubt6u1u-an5xDLoIATn7ingbq4JCRrSjymNPSDdY=s180",
+    "link":"https://play.google.com/store/apps/details?id=com.erzuter.salata_tarifleri_internetsiz"
+  },
+  {
+    "id":6,
+    "judul":"Makarna",
+    "image":"https://lh3.googleusercontent.com/26VHX7LbfYnn4_usgE6-IZ_aYsBgWm8DbicaSOX_xmy7cagLV9SkrFQyY_lY7niDNIAV=s180",
+    "link":"https://play.google.com/store/apps/details?id=com.erzuter.Makarna_Tarifleri_Internetsiz_Offline"
+  },
+
+  {
+    "id":7,
+    "judul":"Kolay Börek Tarifleri internetsiz",
+    "image":"https://lh3.googleusercontent.com/BfaJrJkULeava01gGVJP0ghQrgSNNET_4yk65OJ8IBaX-6SswfHATjiAQw9O49Zhk9k=s180",
+    "link":"https://play.google.com/store/apps/details?id=com.erzuter.kolayborektarifleriinternetsiz"
+  },
+  {
+    "id":8,
+    "judul":"Pratik Meze Tarifleri",
+    "image":"https://lh3.googleusercontent.com/IDB404KJrzpBCdLA9D9eHpcV5DeDVn3kLXF39HDjd3MlIJTj0ggLpFu0gCYLb6e5OLY=s180",
+    "link":"https://play.google.com/store/apps/details?id=com.erzuter.pratik_meze_tarifleri"
+  },
+  {
+    "id":9,
+    "judul":"pratik kek tarifleri",
+    "image":"https://lh3.googleusercontent.com/nMoDTAobTS3n_nIhr9qqHSWZ_zoav2fMcmeLuCkUmsfdnzcPKKCxxD7ki1wlD_SG4Q=s180",
+    "link":"https://play.google.com/store/apps/details?id=com.erzuter.islakkektarifleriinternetsiz"
+  },
+  {
+    "id":10,
+    "judul":"pratik pasta tarifleri internetsiz",
+    "image":"https://lh3.googleusercontent.com/hPql57iyUt8r9oHuzB4x3OPaeJ_GhxxTNeW4VAliYk-nzMs2ovzHvkWlYQGR2RCVSjQ=s180",
+    "link":"https://play.google.com/store/apps/details?id=com.erzuter.pasta_tarifleri"
+  },
+  {
+    "id":11,
+    "judul":"kolay çorba tarifleri",
+    "image":"https://lh3.googleusercontent.com/mX9eNzyrm_BWG4-PVQWUfZNIxTnabWqRoNzGwV4zLdl-2qqMawvwdq3q4gdlJ2ysgg=s180",
+    "link":"https://play.google.com/store/apps/details?id=com.erzuter.corbatarifleriucretsiz"
+  }
+
+]
+
+}
